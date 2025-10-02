@@ -1,6 +1,6 @@
-int main()
+int main(){
 
-ciaoo
 
-aoao come valore
-sdadsadsa
+
+    return 0;
+}
